@@ -1,0 +1,18 @@
+
+# Verilator build directories
+obj_dir/
+obj_dir_*/
+
+# Simulation waveforms
+*.vcd
+*.fst
+
+# Simulation outputs
+*.log
+*.out
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
